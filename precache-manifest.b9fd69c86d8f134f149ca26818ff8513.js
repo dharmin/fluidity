@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eba84e634c01380a1c5a7c91d7e6a520",
+    "revision": "82dba05fbbb44271439b3738df539a20",
     "url": "/fluidity/index.html"
   },
   {
-    "revision": "2cd3c466bb033d347172",
-    "url": "/fluidity/static/css/main.0002f482.chunk.css"
+    "revision": "9d86c7e348cfd5776fba",
+    "url": "/fluidity/static/css/main.3f4980fc.chunk.css"
   },
   {
-    "revision": "3837c85bfc94dcd7d15a",
-    "url": "/fluidity/static/js/2.a13a3398.chunk.js"
+    "revision": "fcc127ed8613a64ddb0c",
+    "url": "/fluidity/static/js/2.76fcd49f.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/fluidity/static/js/2.a13a3398.chunk.js.LICENSE.txt"
+    "revision": "4d74ce1e7fee0a16b28267ca01d74155",
+    "url": "/fluidity/static/js/2.76fcd49f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cd3c466bb033d347172",
-    "url": "/fluidity/static/js/main.e3b16b5d.chunk.js"
+    "revision": "9d86c7e348cfd5776fba",
+    "url": "/fluidity/static/js/main.6195280e.chunk.js"
   },
   {
     "revision": "2877d51ee5b035bead10",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fluidity/static/media/FiraCode-Regular.3da66ca1.woff"
   },
   {
-    "revision": "e5067b7c3b648f5f8fbeb3288b6d0124",
-    "url": "/fluidity/static/media/duckduckgo.e5067b7c.svg"
+    "revision": "1a837031f89d2b862e46efbfeee89644",
+    "url": "/fluidity/static/media/duckduckgo.1a837031.svg"
   },
   {
-    "revision": "9ef22081c78065f1bdeb54de36e6d6cf",
-    "url": "/fluidity/static/media/google.9ef22081.svg"
+    "revision": "0c182f86f349bafa00ba5201f69c79b6",
+    "url": "/fluidity/static/media/google.0c182f86.svg"
   },
   {
     "revision": "06ef25683d4f965ec5c9f7041f277950",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fluidity/static/media/pic_8.ba1342f4.png"
   },
   {
-    "revision": "f90c346a2cf4f445626a8b1211caa6df",
-    "url": "/fluidity/static/media/qwant.f90c346a.svg"
+    "revision": "7b2c220e78a60f719f0e5151da61ccc9",
+    "url": "/fluidity/static/media/qwant.7b2c220e.svg"
   }
 ]);
