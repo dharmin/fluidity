@@ -9,19 +9,19 @@ If you have any problems or miss a feature, create an issue and I will take a lo
 ### The startpage in action
 I created a [reddit post](https://www.reddit.com/r/startpages/comments/m82izg/my_new_startpage_any_ideas_for_names/) on r/startpages. There you can see a short video where I show all available features.
 
-You can also just take a look at the [Live Demo](https://prettycoffee.github.io/fluidity/).
+You can also just take a look at the [Live Demo](https://dharmin.github.io/fluidity/).
 
 ### Themes
-![Default theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png)
-![Dark Souls theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/DarkSouls-theme.png)
-![Pop!OS theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/pop!os-theme.png)
+![Default theme](https://github.com/dharmin/fluidity/blob/main/docs/default-theme.png)
+![Dark Souls theme](https://github.com/dharmin/fluidity/blob/main/docs/DarkSouls-theme.png)
+![Pop!OS theme](https://github.com/dharmin/fluidity/blob/main/docs/pop!os-theme.png)
 **If you created a theme and want to see it here, hit me up!**
 
 ## Usage
 You can apply startpages by using several methods. To keep it simple, I will only cover one (the easiest) here:
 1. Download a New Tab Override Plugin (e.g. [Chrome](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/))
 1. Open the Plugins Settings
-1. Paste `https://prettycoffee.github.io/fluidity/` into the text field to set it up as your startpage
+1. Paste `https://dharmin.github.io/fluidity/` into the text field to set it up as your startpage
 
 ## Local Setup
 If you do not want to rely on my github page, thats totally okay!
@@ -40,7 +40,7 @@ Since this project is programmed with React and TypeScript, you will first need 
 1. Clone the git repository, this time use the main branch
 1. Go into the `/package.json` file and replace 
     ```
-    "homepage": "https://prettycoffee.github.io/fluidity/"
+    "homepage": "https://dharmin.github.io/fluidity/"
     ```
     with 
     ```
